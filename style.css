@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+}
+.navbar-brand img {
+    width: 1px; 
+    height: 2px;
+}   
+span{
+    color: yellow;
+} 
+#buton{
+    width: fit-content;
+    border-color: yellow;
+}
